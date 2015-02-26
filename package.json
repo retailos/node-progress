@@ -18,6 +18,7 @@
     }
   ],
   "dependencies": {
+    "charm": "^1.0.0",
     "jetty": "^0.2.1"
   },
   "main": "index",
